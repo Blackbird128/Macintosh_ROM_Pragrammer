@@ -1,2 +1,6 @@
 # Macintosh_ROM_Pragrammer
 64pin ROM SIMM based on dougg3 design
+
+Updated with USB-C, smaller, power switch...
+
+Gerber and more infos to come...
